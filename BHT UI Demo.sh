@@ -27,7 +27,7 @@
 ################################################################################
 
 # Notes:
-# Uses the newer version of BigHonkingText from John Kitzmiller.
+# Uses the newer version of BigHonkingText (v1.06) from John Kitzmiller.
 # Added support for colors, opacity, and other improvements.
 # https://github.com/kitzy/bighonkingtext
 
