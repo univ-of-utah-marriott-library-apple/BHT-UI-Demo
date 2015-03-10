@@ -26,6 +26,12 @@
 #
 ################################################################################
 
+# Notes:
+# Uses the newer version of BigHonking text from John Kitzmiller.
+# Added support for colors, opacity, and other improvements.
+# https://github.com/kitzy/bighonkingtext
+
+
 # Start BigHonkingText (BHT) fields and background them
 /usr/local/bin/BigHonkingText -p0 -h10% -y80% BHT UI Test &
 /usr/local/bin/BigHonkingText -p0 -o0.9 -y50% -fgreen Proceed &
