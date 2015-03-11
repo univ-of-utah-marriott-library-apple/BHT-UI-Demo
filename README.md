@@ -5,3 +5,7 @@ Available from John Kitzmiller [here](https://github.com/kitzy/bighonkingtext).
 
 
 ![ScreenShot](https://raw.github.com/univ-of-utah-marriott-library-apple/BHT-UI-Demo/master/BHT UI Demo.gif)
+
+## Contact
+
+If you have any comments, questions, or other input, either [file an issue](../../issues) or [send an email to us](mailto:mlib-its-mac-github@lists.utah.edu). Thanks!
