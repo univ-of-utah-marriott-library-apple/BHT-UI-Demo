@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Copyright (c) 2014 University of Utah Student Computing Labs. ################
+# Copyright (c) 2015 University of Utah Student Computing Labs. ################
 # All Rights Reserved.
 #
 # Permission to use, copy, modify, and distribute this software and
