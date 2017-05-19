@@ -4,7 +4,7 @@ Demonstrate the use of `BigHonkingText` as a lightweight user interface. I used 
 Available from John Kitzmiller [here](https://github.com/kitzy/bighonkingtext).
 
 
-![ScreenShot](https://raw.github.com/univ-of-utah-marriott-library-apple/BHT-UI-Demo/master/BHT UI Demo.gif)
+![ScreenShot](BHT_UI_Demo.gif)
 
 ## Contact
 
